@@ -27,22 +27,29 @@ items from great restaurants in the city.
 
 The features I decided to focus on for my design were **_“Barcode”_**, **_“Progress”_** and **_“Insights”_**. 
 * **_“Barcode”_** allows users to scan the barcodes of the compostable items they want to donate
-* **_“Progress”_** enables users are able to set three monthly waste reductiongoals and track their progress towards their desired goal, 
+* **_“Progress”_** enables users are able to set three monthly waste-reduction goals and track their progress towards their desired goal, 
 allowing for the formation of food conservation or repurposing habits. They are also able to navigate to the “My Progress” 
 screen to view their donation history
-* The **_“Insights”_** feature provides a forum where users can share tips on better composting habits or related subjects
+* The **_“Insights”_** feature provides a forum where users can share and view tips on better composting habits or related subjects
 
 ## Tools used: 
 Adobe Photoshop
 
 ## Getting Started:
-### Barcode ###
+
+### Barcode: ### 
 ![image](https://user-images.githubusercontent.com/52611435/72707244-fe0c2f80-3b2d-11ea-85fc-4a7b0379a3f6.png)
 ![image](https://user-images.githubusercontent.com/52611435/72707298-1714e080-3b2e-11ea-8545-a6c4a7dd01c0.png)
 
-### Progress ###
+### Progress: ###  
 ![image](https://user-images.githubusercontent.com/52611435/72706769-c94ba880-3b2c-11ea-8989-0b31508392b2.png)
 
 ![image](https://user-images.githubusercontent.com/52611435/72706838-fe57fb00-3b2c-11ea-99f0-5b7fba83d107.png)
 
 ![image](https://user-images.githubusercontent.com/52611435/72706944-4119d300-3b2d-11ea-80f4-1ed195c999c0.png)
+
+### Insights: ### 
+![image](https://user-images.githubusercontent.com/52611435/72707424-622ef380-3b2e-11ea-9da1-c96655379ef7.png)
+
+![image](https://user-images.githubusercontent.com/52611435/72707468-72df6980-3b2e-11ea-8583-dc4b68c7e9ef.png)
+
