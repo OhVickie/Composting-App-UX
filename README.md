@@ -36,6 +36,10 @@ screen to view their donation history
 Adobe Photoshop
 
 ## Getting Started:
+### Barcode ###
+![image](https://user-images.githubusercontent.com/52611435/72707244-fe0c2f80-3b2d-11ea-85fc-4a7b0379a3f6.png)
+![image](https://user-images.githubusercontent.com/52611435/72707298-1714e080-3b2e-11ea-8545-a6c4a7dd01c0.png)
+
 ### Progress ###
 ![image](https://user-images.githubusercontent.com/52611435/72706769-c94ba880-3b2c-11ea-8989-0b31508392b2.png)
 
