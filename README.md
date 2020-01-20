@@ -36,3 +36,9 @@ screen to view their donation history
 Adobe Photoshop
 
 ## Getting Started:
+### Progress ###
+![image](https://user-images.githubusercontent.com/52611435/72706769-c94ba880-3b2c-11ea-8989-0b31508392b2.png)
+
+![image](https://user-images.githubusercontent.com/52611435/72706838-fe57fb00-3b2c-11ea-99f0-5b7fba83d107.png)
+
+![image](https://user-images.githubusercontent.com/52611435/72706944-4119d300-3b2d-11ea-80f4-1ed195c999c0.png)
